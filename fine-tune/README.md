@@ -7,3 +7,7 @@
 ### LoRA
 
 ### RLHF
+
+### SFT
+
+### PEFT

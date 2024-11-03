@@ -4,6 +4,20 @@ Refer to the LLM Bootcamp
 
 ## Concepts
 
+### Language Models (LMs)
+
+- The models that assign a probability to each possible next word
+- LMs can also assign a probability to an entire sequence
+
+### Representation vs Generative
+
+1. **Representation Language Models**
+   - Do not generate text but are commonly used for task-specific use cases
+   - e.g. Classification
+2. **Generative Language Models**
+   - LLMs that generate text
+   - e.g. GPT models
+
 ### Sampling
 
 ### Pretraining

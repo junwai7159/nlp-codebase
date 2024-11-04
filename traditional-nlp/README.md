@@ -137,6 +137,16 @@ Documents a ML model with information like:
 - A category of words that have similar grammatical properties:
 - e.g. noun, verb, pronoun, adjective, adverb, preposition, etc.
 
+### Natural Language Inference (NLI)
+
+The task of determining whether a "hypothesis" is:
+
+- true (entailment)
+- false (contradiction)
+- undetermined (neutral)
+
+given a premise
+
 ## Models
 
 ### N-gram Language Models

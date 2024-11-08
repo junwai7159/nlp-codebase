@@ -185,6 +185,10 @@ $$\text{tf}_{t,d} = \begin{cases}
   0 & \text{otherwise}
 \end{cases}$$
 
+- Tells us how frequent the word is
+- Words that occur more often in a document are likely to be informative about the document's contents
+- Why $\log_{10}$ of the word frequency instead of the raw count? The intuition is that a word appearing 100 times in a document doesn't make that word 100 times more likely to be relevant to the meaning of the document
+
 #### Document Frequency
 
 - **$\text{df}_t$:** document frequency of a term $t$ is the number of documents it occurs in

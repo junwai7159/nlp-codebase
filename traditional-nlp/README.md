@@ -62,7 +62,7 @@ $$|V| = kN^{\beta}$$
 
 - Commonly used words that are often filtered out before processing text
 - These words are considered to have little value in terms of meaning
-- e.g. *and*, *the*, *a*, *is*, *are*, etc.
+- e.g. *and*, *the*, *a*, *is*, *are*, *to* etc.
 
 ### Morphology
 
